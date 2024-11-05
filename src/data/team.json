@@ -1,0 +1,47 @@
+[
+	{
+		"id": 1,
+		"title": "Drake",
+		"description": "Vos rappeurs préférés, tels que Drake, Travis Scott et d'autres artistes que vous appréciez comme Adele, Billie Eilish et NBA YoungBoy, seront présents au festival à Calgary pour vous faire passer un weekend inoubliable.",
+		"date": "2024-07-20",
+		"place": "calgary",
+		"src": "imgage5.jpg",
+		"alt": "Concert de Rap"
+	},
+	{
+		"id": 2,
+		"title": "Adele",
+		"description": "Vos rappeurs préférés, tels que Drake, Travis Scott et d'autres artistes que vous appréciez comme Adele, Billie Eilish et NBA YoungBoy, seront présents au festival à Calgary pour vous faire passer un weekend inoubliable.",
+		"date": "2024-07-20",
+		"place": "calgary",
+		"src": "imgage4.jpg",
+		"alt": "Concert de Rap"
+	},
+	{
+		"id": 3,
+		"title": "Billie Eilish",
+		"description": "Vos rappeurs préférés, tels que Drake, Travis Scott et d'autres artistes que vous appréciez comme Adele, Billie Eilish et NBA YoungBoy, seront présents au festival à Calgary pour vous faire passer un weekend inoubliable.",
+		"date": "2024-07-20",
+		"place": "calgary",
+		"src": "imgage3.jpg",
+		"alt": "Concert de Rap"
+	},
+	{
+		"id": 4,
+		"title": "21 Savage",
+		"description": "Vos rappeurs préférés, tels que Drake, Travis Scott et d'autres artistes que vous appréciez comme Adele, Billie Eilish et NBA YoungBoy, seront présents au festival à Calgary pour vous faire passer un weekend inoubliable.",
+		"date": "2024-07-20",
+		"place": "calgary",
+		"src": "imgage2.jpg",
+		"alt": "Concert de Rap"
+	},
+	{
+		"id": 5,
+		"title": "Travis Scott",
+		"description": "Vos rappeurs préférés, tels que Drake, Travis Scott et d'autres artistes que vous appréciez comme Adele, Billie Eilish et NBA YoungBoy, seront présents au festival à Calgary pour vous faire passer un weekend inoubliable.",
+		"date": "2024-07-20",
+		"place": "calgary",
+		"src": "imgage1.jpg",
+		"alt": "Concert de Rap"
+	}
+]

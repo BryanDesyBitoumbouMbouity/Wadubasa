@@ -1,0 +1,33 @@
+.container {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+	padding: 20px;
+	height: calc(100vh - 140px);
+	width: 100%;
+	overflow-x: hidden;
+}
+
+.title {
+	font-size: 3rem;
+	font-weight: 900;
+}
+.description {
+	font-size: 1rem;
+	text-align: justify;
+}
+
+.cardContainer {
+	display: flex;
+	gap: 20px;
+	flex-wrap: wrap;
+}
+
+@media (max-width: 768px) {
+	.cardContainer {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		gap: 20px;
+	}
+}

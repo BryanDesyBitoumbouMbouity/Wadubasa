@@ -1,0 +1,41 @@
+.container {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+	margin: 50px;
+	width: 80%;
+}
+
+.container input,
+.container textarea,
+.container select {
+	padding: 20px;
+	background-color: #cbc8c8;
+	border: none;
+	border-radius: 5px;
+	color: black;
+}
+
+.container button {
+	padding: 20px;
+	cursor: pointer;
+	background-color: var(--btn);
+	border: none;
+	border-radius: 5px;
+	color: white;
+	font-weight: bold;
+}
+
+.title {
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.error {
+	color: red;
+}
+
+.confirmation {
+	color: green;
+	font-size: 1.8rem;
+}

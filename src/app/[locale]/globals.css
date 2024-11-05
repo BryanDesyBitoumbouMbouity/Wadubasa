@@ -1,0 +1,82 @@
+@tailwind base;
+
+:root {
+  --bg: #fff;
+  --bgSoft: #eaeaea;
+  --text: #000;
+  --bgNavbar: #3901be;
+  --textSoft: #777777;
+  --btn: #8a54f7;
+  --btnOver: #641cf5;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.dark {
+  --bg: #080e1b;
+  --bgSoft: #1f273a;
+  --text: #ddd;
+  --bgNavbar: #6c40d1;
+  --textSoft: #bbbaba;
+  --btn: #8a54f7;
+  --btnOver: #641cf5;
+  --bgCard: #25314d;
+  --textCard: #ddd;
+  --bgCard: #908996;
+  --textCard: #000;
+}
+
+.light {
+  --bg: #fff;
+  --bgSoft: #eaeaea;
+  --text: #000;
+  --bgNavbar: #3901be;
+  --textSoft: #777777;
+  --btn: #8a54f7;
+  --btnOver: #641cf5;
+  --bgCard: #eddbfc;
+  --textCard: #000;
+  --bgCard: #eddbfc;
+  --textCard: #000;
+}
+
+.container {
+  width: 100vw;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: space-between;
+  color: var(--text);
+  background-color: var(--bg);
+}
+
+body {
+  color: var(--text);
+  background-color: var(--bg);
+}
+.content {
+  flex: 1;
+}
+
+.footer {
+  background-color: var(--bgSoft);
+  color: var(--textSoft);
+  text-align: center;
+
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+}
+
+.toggle {
+  color: var(--text);
+}

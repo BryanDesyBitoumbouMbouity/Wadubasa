@@ -1,0 +1,74 @@
+.container {
+	display: flex;
+	gap: 20px;
+	padding: 20px;
+	height: calc(100vh - 200px);
+}
+
+.textContainer {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+}
+
+.title {
+	font-size: 3rem;
+	font-weight: 900;
+}
+.description {
+	font-size: 1.2rem;
+	text-align: justify;
+}
+
+.date {
+	display: flex;
+	align-items: center;
+	gap: 5px;
+}
+.place {
+	display: flex;
+	gap: 5px;
+}
+
+.buttons {
+	display: flex;
+	gap: 20px;
+}
+
+.button {
+	padding: 10px;
+	min-width: 120px;
+	cursor: pointer;
+	border: none;
+	border-radius: 5px;
+	background-color: var(--bgSoft);
+}
+
+.button:first-child {
+	background-color: var(--btn);
+	color: var(--bg);
+}
+
+.imgContainer {
+	flex: 1;
+	position: relative;
+	width: 100%;
+	height: 400px;
+}
+
+@media (max-width: 768px) {
+	.container {
+		flex-direction: column;
+		flex-wrap: wrap;
+		gap: 20px;
+		padding: 20px;
+		height: 100vh;
+	}
+
+	.imgContainer {
+		position: relative;
+		width: 100% !important;
+		height: auto !important;
+	}
+}

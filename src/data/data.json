@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Drake",
+    "description": "Drake, de son vrai nom Aubrey Drake Graham, est un rappeur, chanteur, auteur-compositeur et acteur canadien né le 24 octobre 1986 à Toronto, Ontario, Canada. Il est reconnu comme l'un des artistes les plus influents et prolifiques de sa génération.",
+    "date": "15 avril 2024",
+    "place": " Montreal",
+    "img": "imgage5.jpg",
+    "alt": "Drake day"
+  },
+  {
+    "id": 2,
+    "title": "Travis scott",
+    "description": "Travis Scott, anciennement stylisé Travi$ Scott, de son vrai nom Jacques Berman Webster II, né le 30 avril 1991 à Houston au Texas, est un rappeur, chanteur, producteur, musicien, acteur, mannequin et réalisateur américain. Il a aussi collaboré avec beaucoup de grandes marques. Il est signé sur les labels Grand Hustle et Epic, ainsi que sur le label de Kanye West, GOOD Music, comme producteur",
+    "date": "15 juin 2024",
+    "place": " Montreal",
+    "img": "imgage1.jpg",
+    "alt": "test"
+  },
+  {
+    "id": 3,
+    "title": "NBA youngBoy",
+    "description": "YoungBoy Never Broke Again, Kentrell DeSean Gaulden de son vrai nom, naît le 20 octobre 1999 à Baton Rouge, en Louisiane. Il est le cadet d'une famille de trois enfants. ",
+    "date": "18 novembre 2024",
+    "place": " Montreal",
+    "img": "imgage6.jpg",
+    "alt": "Concert de NBA youngBoy"
+  },
+  {
+    "id": 4,
+    "title": "21 Savage",
+    "description": "Shéyaa Bin Abraham-Joseph1 est né le 22 octobre 1992 dans le quartier de Plaistow du borough londonien de Newham, à Londres2. À 7 ans, il part vivre aux États-Unis avec sa mère",
+    "date": "05 Mars 2024",
+    "place": "Montreal",
+    "img": "imgage2.jpg",
+    "alt": "Concert de 21 savage"
+  }
+]

@@ -1,0 +1,50 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.table {
+  min-width: 400px;
+  border-collapse: collapse;
+  margin: 25px 0;
+  font-size: 0.9rem;
+  font-family: sans-serif;
+  box-shadow: 0 0 20px #bbb9b9;
+}
+
+.table thead tr {
+  background-color: var(--btn);
+  color: white;
+  text-align: left;
+  padding: 5px;
+}
+
+.table tbody tr {
+  border-bottom: 1px solid #dddddd;
+}
+
+.table th td {
+  padding: 12px 15px;
+}
+
+.table tbody tr :last-of-type {
+  border-bottom: 2x solid #bbb9b9;
+}
+
+.button {
+  padding: 5px;
+  cursor: pointer;
+  background-color: var(--btn);
+  border: none;
+  border-radius: 5px;
+  color: var(--text);
+  font-weight: bold;
+}
+
+.containerTitleButton {
+  display: flex;
+  justify-content: space-between;
+  padding: 50px;
+  text-decoration: none;
+}
